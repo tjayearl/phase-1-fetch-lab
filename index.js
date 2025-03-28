@@ -18,4 +18,4 @@ function fetchBooks() {
   document.addEventListener('DOMContentLoaded', function() {
     fetchBooks();
   });
-  
+  // Force update
